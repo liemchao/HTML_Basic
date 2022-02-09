@@ -1,1 +1,1 @@
-<?php header ('Localtion: /index.html' )?>
+<?php include_once("home.html");
